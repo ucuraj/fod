@@ -1,0 +1,20 @@
+1 Limpiador de vidrios
+110 100 80
+2 Cera para autos
+60 55 40
+3 Lisoform
+40 90 40
+4 Detergente
+50 105 60
+5 Jabon
+25 90 70
+6 Trapo
+25 110 40
+7 Papel higienico
+25 110 25
+8 Toalla
+35 90 40
+9 Kit limpieza
+140 110 60
+10 Lavandina
+50 110 50
