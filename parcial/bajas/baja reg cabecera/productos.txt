@@ -1,0 +1,18 @@
+1 10 3 15 8500 iPhone 6 16gb
+2 7 3 10 9700.00 iPhone 6 64gb
+3 5 2 10 11500.00 iPhone 6 128gb
+4 10 4 14 10000.00 iPhone 6s 16gb
+5 10 3 15 11500.00 iPhone 6s 64gb
+6 5 2 10 12500.00 iPhone 6s 128gb
+7 5 2 10 10000.00 iPhone 6 Plus 16gb
+8 8 3 10 11000.00 iPhone 6 Plus 64gb
+9 7 1 10 12100.00 iPhone 6 Plus 128gb
+10 4 2 10 12000.00 iPhone 6s 16gb Plus
+11 5 2 10 13400.00 iPhone 6s 64gb Plus
+12 5 1 10 15500.00 iPhone 6s Plus 128gb
+13 5 4 10 14500.00 iPhone 7 32gb
+14 8 2 10 15700.00 iPhone 7 128gb
+15 7 2 10 16900.00 iPhone 7 256gb
+16 9 3 10 15200.00 iPhone 7 Plus 32gb
+17 10 3 10 16800.00 iPhone 7 Plus 128gb
+18 5 2 10 17500.00 iPhone 7 Plus 256gb
