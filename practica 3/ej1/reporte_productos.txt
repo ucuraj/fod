@@ -1,0 +1,19 @@
+Cod: 0 Nombre: Cant actual: 0 Cant minima: 0 Cant maxima: 0 Precio: 0.00
+Cod: 1 Nombre: iPhone 6 16gb Cant actual: 10 Cant minima: 3 Cant maxima: 15 Precio: 8500.00
+Cod: 2 Nombre: iPhone 6 64gb Cant actual: 7 Cant minima: 3 Cant maxima: 10 Precio: 9700.00
+Cod: 3 Nombre: iPhone 6 128gb Cant actual: 5 Cant minima: 2 Cant maxima: 10 Precio: 11500.00
+Cod: 4 Nombre: iPhone 6s 16gb Cant actual: 10 Cant minima: 4 Cant maxima: 14 Precio: 10000.00
+Cod: 5 Nombre: iPhone 6s 64gb Cant actual: 10 Cant minima: 3 Cant maxima: 15 Precio: 11500.00
+Cod: 6 Nombre: iPhone 6s 128gb Cant actual: 5 Cant minima: 2 Cant maxima: 10 Precio: 12500.00
+Cod: 7 Nombre: iPhone 6 Plus 16gb Cant actual: 5 Cant minima: 2 Cant maxima: 10 Precio: 10000.00
+Cod: 8 Nombre: iPhone 6 Plus 64gb Cant actual: 8 Cant minima: 3 Cant maxima: 10 Precio: 11000.00
+Cod: 9 Nombre: iPhone 6 Plus 128gb Cant actual: 7 Cant minima: 1 Cant maxima: 10 Precio: 12100.00
+Cod: 10 Nombre: iPhone 6s 16gb Plus Cant actual: 4 Cant minima: 2 Cant maxima: 10 Precio: 12000.00
+Cod: 11 Nombre: iPhone 6s 64gb Plus Cant actual: 5 Cant minima: 2 Cant maxima: 10 Precio: 13400.00
+Cod: 12 Nombre: iPhone 6s Plus 128g Cant actual: 5 Cant minima: 1 Cant maxima: 10 Precio: 15500.00
+Cod: 13 Nombre: iPhone 7 32gb Cant actual: 5 Cant minima: 4 Cant maxima: 10 Precio: 14500.00
+Cod: 14 Nombre:iPhone 7 128gb RED Cant actual: 5 Cant minima: 2 Cant maxima: 10 Precio: 17999.99
+Cod: 15 Nombre: iPhone 7 256gb Cant actual: 7 Cant minima: 2 Cant maxima: 10 Precio: 16900.00
+Cod: 16 Nombre: iPhone 7 Plus 32gb Cant actual: 9 Cant minima: 3 Cant maxima: 10 Precio: 15200.00
+Cod: 17 Nombre: iPhone 7 Plus 128gb Cant actual: 10 Cant minima: 3 Cant maxima: 10 Precio: 16800.00
+Cod: 18 Nombre: iPhone 7 Plus 256gb Cant actual: 5 Cant minima: 2 Cant maxima: 10 Precio: 17500.00
